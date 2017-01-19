@@ -1,0 +1,26 @@
+ h1 {
+ font-size:110%;
+ color:red;
+ text-align: center;
+ } 
+
+ p 
+ {
+ font-family: Tahoma;
+ color: green;
+ }
+ 
+ h2 {
+ font-family:comic-sans;
+ font-style:underline; 
+ text-align: center;
+ }
+ 
+ ul {
+ font-style: italic;
+ }
+ 
+ ol {
+ font-style: bold;
+ font-size: 1.6em;
+ }
