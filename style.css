@@ -1,0 +1,15 @@
+ h1 {
+ font-family:comic-sans;
+ font-size:110%;
+ color:blue;
+ } 
+
+ p 
+ {
+ font-family: wingdings;
+ background-color:black;
+ }
+ 
+ h2 {
+ font-style:italic; 
+ }
